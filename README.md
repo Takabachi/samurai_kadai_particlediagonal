@@ -1,2 +1,2 @@
 # samurai_kadai_particlediagonal
-侍エンジニア塾のparticlediagonalのリポジトリです
+侍エンジニア塾のparticlediagonalリポジトリです
